@@ -25,8 +25,10 @@ Now we have a better grasp about the internet, and how some of the things are wo
  7. operating system will recieve this info and send it to your browser 
 1.  What does HTTP stand for?
 Hyper Text Transfer Protocol 
-1. 	What protocol does the World Wide Web use?
-1. 	Each computer on the Internet is assigned an IP address, what does IP stand for?
+1. 	What protocol does the World Wide Web use?  
+HTTP or HTTPS
+1. 	Each computer on the Internet is assigned an IP address, what does IP stand for? 
+Internet Protocol
 1. 	What does DNS stand for?
   * A. Domain Name System
 HTTP/HTTPS 
