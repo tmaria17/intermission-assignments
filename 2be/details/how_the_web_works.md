@@ -16,22 +16,17 @@ Now we have a better grasp about the internet, and how some of the things are wo
 
 
 1. Describe, step by step, what happens when I type `www.example.com` into my browser and try to go to the page?
- 1. Operating System determines if it already knows where www.example.com is and if so it will take you there
- 2. if not operating system checks for ip address with resolving name server 
- 3. Resolving name serves will check with Root Name Server 
- 4. Root Name server will be like go ask the top level domain servers /authorative name servers 
- 5. resolving name server asks top level
- 6. top level directs resolving to example.com name server 
- 7. operating system will recieve this info and send it to your browser 
+ Operating System determines if it already knows where www.example.com is and if so it will take you there
+  if not operating system checks for ip address with resolving name server 
+  Resolving name serves will check with Root Name Server 
+  Root Name server will be like go ask the top level domain servers /authorative name servers 
+  resolving name server asks top level
+  top level directs resolving to example.com name server 
+ operating system will recieve this info and send it to your browser 
 1.  What does HTTP stand for?
 Hyper Text Transfer Protocol 
 1. 	What protocol does the World Wide Web use?  
 HTTP or HTTPS
-1. 	Each computer on the Internet is assigned an IP address, what does IP stand for? 
-Internet Protocol
-1. 	What does DNS stand for?
-  * A. Domain Name System
-HTTP/HTTPS 
 1. 	Each computer on the Internet is assigned an IP address, what does IP stand for? 
 Internet Protocol
 1. 	What does DNS stand for? A. 
@@ -59,13 +54,12 @@ Uniform Resource Locator
  💜 D.	The standardised method for transferring data or documents over a network
  * E.	The standardised method for prioratising data or document storage over a network
 1. What does DNS stand for?
-1. what is the `www` portion of a url?
 Domain Name System
-1. what is the `www` portion of a url? Subdomain/subdivision of main domain name 
+1. what is the `www` portion of a url?
+Subdomain/subdivision of main domain name ???
 1. What is The markup language used for all web documents?
 XML or  HTML/Hyper Text Markup Language 
 1. What is the organization that monitors web technologies?
-1. What is the Protocol for transferring web documents on the Internet?
 world wide web consortium W3C
 1. What is the Protocol for transferring web documents on the Internet? 
 HTTP
